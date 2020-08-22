@@ -8,10 +8,10 @@ To quickly find multicraft configurations list of server JAR !
 Versions available
 -----
 
-| Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
+| Versions | 💾 Vanilla | 🎮 Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.16.1 | 1.15.2 | 1.15.2 |
+| `Last`| 1.16.2 | 1.15.2 | 1.15.2 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 ----
@@ -19,7 +19,7 @@ Add a JAR file manually directly from your panel
 -----
 On the main menu select : Settings > Update Minecraft > Add or Remove   
 Add Files   
-- **JAR Filename :** final name of the JAR, ex >> vanilla-1.13.1.jar
+- **JAR Filename :** final name of the JAR, ex >> vanilla-1.16.2.jar
 - **File URL :** URL from JAR source
 - **Conf URL :** URL for JAR configuration (from here)  
 
@@ -57,4 +57,4 @@ Or send a patch proposal :D
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
-© 2017 - 2020
+© 2019 - 2020
