@@ -36,18 +36,18 @@ Special profile for demanding modded servers :
 🕓 Quick add & clean profiles scripts
 -----
 Run theses bash scripts in the "~/multicraft" directory of your host server !
-* [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
-* [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/custom.sh)
-* [Spigot.sh](https://raw.githubusercontent.com/GlobalCraft2020/minecraft/master/scripts/spigot.sh)
-* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh)  
+* [Clean.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/clean.sh)
+* [Custom.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/custom.sh)
+* [Spigot.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/spigot.sh)
+* [Vanilla.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/vanilla.sh)  
 -----
  💬 Translation script
 -----
 Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create a language folder & get the files)
 
-🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-fr.sh)  
-🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-de.sh)   
-🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-es.sh)
+🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/translate/Install-fr.sh)  
+🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/translate/Install-de.sh)   
+🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/translate/Install-es.sh)
 
 -----
 ⚠️⚠️⚠️ You find a bug ?
