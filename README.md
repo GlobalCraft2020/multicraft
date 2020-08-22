@@ -1,4 +1,4 @@
-MultiCraft-JAR Conf
+MultiCraft-JARs & Config
 =====
 To quickly find multicraft configurations list of server JAR !
 
