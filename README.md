@@ -53,7 +53,6 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 ⚠️⚠️⚠️ Found a bug ?
 -----
 Don't be afraid to open an issue ! 
-
 ->> [Issues](https://github.com/GlobalCraft2020/multicraft/issues)
 Or send a patch proposal :D    
 
