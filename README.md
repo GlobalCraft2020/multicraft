@@ -54,7 +54,7 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 -----
 Don't be afraid to open an issue ! 
 
-->> [Issues] (https://github.com/GlobalCraft2020/multicraft/issues)
+->> [Issues](https://github.com/GlobalCraft2020/multicraft/issues)
 Or send a patch proposal :D    
 
 -----
