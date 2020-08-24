@@ -50,7 +50,7 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/translate/Install-es.sh)
 
 -----
-⚠️⚠️⚠️ You find a bug ?
+⚠️⚠️⚠️ Found a bug ?
 -----
 Don't be afraid to open an issue !    
 Or send a patch proposal :D    
@@ -58,3 +58,6 @@ Or send a patch proposal :D
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2019 - 2020
+
+I dont own the code. Credits goes to the respected owners!
+Thanks ValentinTh for most of the code.
