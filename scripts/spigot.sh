@@ -30,7 +30,7 @@ wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf
 chown minecraft:minecraft ./jar/spigot-1.12.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.12.1.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.12.1.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.11.2.jar.conf
+wget -N -P ./jar https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/minecraft/spigot/spigot-1.11.2.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.11.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.10.2.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.10.2.jar.conf
