@@ -10,8 +10,8 @@ echo -e "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all these things baby ! \033[37m"
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf
 chown minecraft:minecraft ./jar/my-jar.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf
-chown minecraft:minecraft ./jar/my-bungee.jar.conf
+wget -N -P ./jar https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/custom/bungeecord.jar.conf
+chown minecraft:minecraft ./jar/bungeecord.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf
 chown minecraft:minecraft ./jar/hardmodded.jar.conf
 echo -e "\033[0;36m ## \033[0;35mPermissions accorded my general ! \033[0m"
