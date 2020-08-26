@@ -58,10 +58,10 @@ Or send a patch proposal :D
 -----
 ☕☕ Want to buy me a coffee?
 -----
-[Link](https://www.buymeacoffee.com/mralwaysawesome)
+[Buy Coffee](https://www.buymeacoffee.com/mralwaysawesome)
 
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2019 - 2020
 
-I dont own the code. Credits goes to the respected owners!
+I dont own the code. Credits goes to the respective owners!
 Thanks ValentinTh for most of the code.
