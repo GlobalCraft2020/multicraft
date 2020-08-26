@@ -10,6 +10,8 @@ echo -e "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all these things baby ! \033[37m"
 wget -N -P ./jar https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/minecraft/sponge-forge/spongeforge-1.10.2.jar.conf
 chown minecraft:minecraft ./jar/spongeforge-1.10.2.jar.conf
+wget -N -P ./jar https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/minecraft/sponge-forge/spongeforge-1.11.2.jar.conf
+chown minecraft:minecraft ./jar/spongeforge-1.11.2.jar.conf
 echo -e "\033[0;36m ## \033[0;35mPermissions accorded my general ! \033[0m"
 echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mSPONGEFORGE \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
