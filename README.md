@@ -60,6 +60,7 @@ Or send a patch proposal :D
 -----
 [Buy Coffee](https://www.buymeacoffee.com/mralwaysawesome)
 
+-----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2019 - 2020
 
