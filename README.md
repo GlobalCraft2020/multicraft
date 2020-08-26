@@ -11,8 +11,8 @@ Versions available
 | Versions | 💾 Vanilla | 🎮 Spigot | 🔨 PaperSpigot | 🧽 SpongeForge |
 | :--------|:----------:|:---------:|:--------------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)|[Sponge](https://www.spongepowered.org)|
-| `Last`| 1.16.2 | 1.16.2 | 1.15.2 |
-| `First`| 1.4.7 | 1.4.6 | 1.12.2 |
+| `Last`| 1.16.2 | 1.16.2 | 1.15.2 | 1.12.2 |
+| `First`| 1.4.7 | 1.4.6 | 1.12.2 | 1.10.2 |
 
 ----
 Add a JAR file manually directly from your panel
