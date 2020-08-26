@@ -56,6 +56,10 @@ Don't be afraid to open an [Issue](https://github.com/GlobalCraft2020/multicraft
 Or send a patch proposal :D    
 
 -----
+☕☕ Want to buy me a coffee?
+-----
+[Link](https://www.buymeacoffee.com/mralwaysawesome)
+
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2019 - 2020
 
