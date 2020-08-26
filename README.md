@@ -8,8 +8,8 @@ To quickly find multicraft configurations list of server JAR !
 Versions available
 -----
 
-| Versions | 💾 Vanilla | 🎮 Spigot | 🔨 PaperSpigot |
-| :--------|:----------:|:---------:|:--------------:|
+| Versions | 💾 Vanilla | 🎮 Spigot | 🔨 PaperSpigot | 🧽 SpongeForge |
+| :--------|:----------:|:---------:|:--------------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
 | `Last`| 1.16.2 | 1.16.2 | 1.15.2 |
 | `First`| 1.4.7 | 1.4.6 | 1.12.2 |
