@@ -40,7 +40,7 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 * [Custom.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/custom.sh)
 * [Spigot.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/spigot.sh)
 * [Vanilla.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/vanilla.sh)  
-* [SpongeForge.sh](
+* [SpongeForge.sh](https://raw.githubusercontent.com/GlobalCraft2020/multicraft/master/scripts/spongeforge.sh)
 -----
  💬 Translation script
 -----
